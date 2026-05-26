@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    
+    int num1 = 20;
+    int num2 = 10;
+    
+    int subtraction = num1 - num2;
+    
+    printf("Subtraction = %d", subtraction);
+
+    return 0;
+}
